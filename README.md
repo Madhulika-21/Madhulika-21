@@ -1,13 +1,13 @@
 
-<!-- =============== ANIMATED HEADER =============== -->
+<!-- =============== HEADER =============== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:211329,50:50345C,100:D99A9B&height=260&section=header&text=MADHULIKA%20SELLATHAMBI&fontSize=38&fontColor=F8DCCF&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20DATA%20%26%20AI%20ENTHUSIAST&descSize=16&descColor=F8DCCF&descAlignY=60&animation=twinkling" />
+<img src="./plum_rose_github_header.png" width="100%" alt="Madhulika Sellathambi Developer Banner"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=1600&pause=400&color=D99A9B&center=true&vCenter=true&width=700&height=55&lines=Welcome+to+my+GitHub+Profile!;Building+Ideas+Into+Reality;Exploring+Data+Engineering;Learning+AI+%26+Machine+Learning;Passionate+About+Problem+Solving" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=1800&pause=500&color=D99A9B&center=true&vCenter=true&width=750&height=55&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;Aspiring+Data+Engineer;AI+%26+ML+Enthusiast;Turning+Ideas+Into+Reality" />
 
 <br/>
 
@@ -43,25 +43,25 @@ Hello! I'm **Madhulika Sellathambi**, a Computer Science postgraduate passionate
 
 ## 💻 Tech Stack & Tools
 
-**Programming Languages**
+### Programming Languages
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,c,cpp" />
 </p>
 
-**Web Development**
+### Web Development
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,php,flask" />
 </p>
 
-**Database & Development Tools**
+### Database & Development Tools
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,tensorflow" />
 </p>
 
-**Currently Exploring**
+### Currently Exploring
 
 <p align="center">
 <img src="https://img.shields.io/badge/DATA%20ENGINEERING-50345C?style=for-the-badge" />
@@ -88,6 +88,7 @@ Live news sentiment analysis using React, Flask and VADER NLP.
 </a>
 
 </td>
+
 <td width="50%">
 
 ### 🎓 Student Record Management
@@ -113,6 +114,7 @@ Food ordering website using HTML and CSS.
 </a>
 
 </td>
+
 <td width="50%">
 
 ### 🌐 Digital Portfolio
@@ -139,7 +141,7 @@ CGPA: 9.27 / 10
 
 ---
 
-<!-- =============== GITHUB STATS =============== -->
+<!-- =============== GITHUB STATISTICS =============== -->
 
 ## 📊 GitHub Streak Statistics
 
@@ -167,10 +169,14 @@ CGPA: 9.27 / 10
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=1400&pause=300&color=D99A9B&center=true&vCenter=true&width=650&height=50&lines=Thanks+for+visiting+my+profile!;Keep+Learning.+Keep+Building.;See+you+in+my+next+project!" />
+<h3>💜 Thanks for visiting my profile!</h3>
+
+<p>Keep Learning. Keep Building. Keep Growing.</p>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:211329,50:50345C,100:D99A9B&height=150&section=footer&text=HAPPY%20CODING!&fontSize=28&fontColor=F8DCCF&animation=blinking" />
+<!-- ANIMATED FOOTER WAVE -->
+
+<img src="./plum_rose_animated_wave.gif" width="100%" alt="Animated Plum Rose Wave"/>
 
 </div>
