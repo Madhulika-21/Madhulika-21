@@ -1,5 +1,6 @@
-## Hi there 👋
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Aspiring+Data+Engineer;Machine+Learning+Enthusiast;DSA+%26+Problem+Solving" />
+</p>
 <!--
 **Madhulika-21/Madhulika-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
