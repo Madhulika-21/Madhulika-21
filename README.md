@@ -1,27 +1,27 @@
 
-<!-- ================= HEADER ================= -->
+<!-- =============== ANIMATED HEADER =============== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Madhulika%20Sellathambi&fontSize=42&fontColor=F8DCCF&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Data%20%26%20AI%20Enthusiast&descAlignY=58&descSize=16&animation=fadeIn&color=0:211329,25:50345C,50:966477,75:D99A9B,100:F8DCCF" />
-
-<!-- ================= TYPING ANIMATION ================= -->
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=D99A9B&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;Aspiring+Data+Engineer;AI+%26+Machine+Learning+Enthusiast;Turning+Ideas+Into+Reality!" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:211329,50:50345C,100:D99A9B&height=260&section=header&text=MADHULIKA%20SELLATHAMBI&fontSize=38&fontColor=F8DCCF&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20DATA%20%26%20AI%20ENTHUSIAST&descSize=16&descColor=F8DCCF&descAlignY=60&animation=twinkling" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Madhulika-21&label=PROFILE+VIEWS&color=966477&style=for-the-badge" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=1600&pause=400&color=D99A9B&center=true&vCenter=true&width=700&height=55&lines=Welcome+to+my+GitHub+Profile!;Building+Ideas+Into+Reality;Exploring+Data+Engineering;Learning+AI+%26+Machine+Learning;Passionate+About+Problem+Solving" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Madhulika-21&label=PROFILE+VISITORS&color=966477&style=for-the-badge" />
 
 </div>
 
 ---
 
-<!-- ================= ABOUT ME ================= -->
+<!-- =============== ABOUT ME =============== -->
 
 ## 🌸 About Me
 
-Hello! I'm **Madhulika Sellathambi**, a Computer Science postgraduate passionate about technology and innovation.
+Hello! I'm **Madhulika Sellathambi**, a Computer Science postgraduate passionate about technology, innovation and problem-solving.
 
 - 🎓 MSc Computer Science Graduate.
 - 💻 Interested in Full Stack Development.
@@ -29,45 +29,49 @@ Hello! I'm **Madhulika Sellathambi**, a Computer Science postgraduate passionate
 - 🤖 Interested in Artificial Intelligence and Machine Learning.
 - 🧠 Passionate about DSA and Problem Solving.
 - 🚀 Love building practical, real-world applications.
-- 🌍 Based in Tamil Nadu, India.
+- 📍 Tamil Nadu, India.
 
-> "Great things are built one line of code at a time."
+<div align="center">
+
+*"Great things are built one line of code at a time."*
+
+</div>
 
 ---
 
-<!-- ================= TECH STACK ================= -->
+<!-- =============== TECH STACK =============== -->
 
 ## 💻 Tech Stack & Tools
 
-### Programming Languages
+**Programming Languages**
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,c,cpp" />
 </p>
 
-### Web Development
+**Web Development**
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,php,flask" />
 </p>
 
-### Database & Technologies
+**Database & Development Tools**
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,tensorflow,git,github,vscode" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,tensorflow" />
 </p>
 
-### Currently Exploring
+**Currently Exploring**
 
-<p>
-<img src="https://img.shields.io/badge/Data%20Engineering-50345C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/PySpark-966477?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Databricks-D99A9B?style=for-the-badge" />
+<p align="center">
+<img src="https://img.shields.io/badge/DATA%20ENGINEERING-50345C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PYSPARK-966477?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DATABRICKS-D99A9B?style=for-the-badge" />
 </p>
 
 ---
 
-<!-- ================= PROJECTS ================= -->
+<!-- =============== PROJECTS =============== -->
 
 ## 🚀 Featured Projects
 
@@ -80,7 +84,7 @@ Hello! I'm **Madhulika Sellathambi**, a Computer Science postgraduate passionate
 Live news sentiment analysis using React, Flask and VADER NLP.
 
 <a href="https://github.com/Madhulika-21/news-sentiment-aggregator">
-<img src="https://img.shields.io/badge/View%20Project-966477?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-966477?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -88,10 +92,10 @@ Live news sentiment analysis using React, Flask and VADER NLP.
 
 ### 🎓 Student Record Management
 
-A student record management application using PHP and MySQL.
+Student management application using PHP and MySQL.
 
 <a href="https://github.com/Madhulika-21/Student-Record-Management">
-<img src="https://img.shields.io/badge/View%20Project-966477?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-966477?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -102,10 +106,10 @@ A student record management application using PHP and MySQL.
 
 ### 🍔 Food Order Website
 
-A food ordering website built using HTML and CSS.
+Food ordering website using HTML and CSS.
 
 <a href="https://github.com/Madhulika-21/Food-Order-Website">
-<img src="https://img.shields.io/badge/View%20Project-966477?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-966477?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -113,10 +117,10 @@ A food ordering website built using HTML and CSS.
 
 ### 🌐 Digital Portfolio
 
-A personal digital portfolio showcasing web development skills.
+Personal portfolio showcasing web development skills.
 
 <a href="https://github.com/Madhulika-21/Digital_Portfolio">
-<img src="https://img.shields.io/badge/View%20Project-966477?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-966477?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -125,54 +129,48 @@ A personal digital portfolio showcasing web development skills.
 
 ---
 
-<!-- ================= EDUCATION ================= -->
+<!-- =============== EDUCATION =============== -->
 
 ## 🎓 Education
 
-**Master of Science – Computer Science**
+**M.Sc Computer Science**
 
 CGPA: 9.27 / 10
 
 ---
 
-<!-- ================= GITHUB STATS ================= -->
+<!-- =============== GITHUB STATS =============== -->
 
-## 📊 GitHub Statistics
+## 📊 GitHub Streak Statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Madhulika-21&show_icons=true&hide_border=true&bg_color=211329&title_color=D99A9B&text_color=F8DCCF&icon_color=966477" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhulika-21&layout=compact&hide_border=true&bg_color=211329&title_color=D99A9B&text_color=F8DCCF" />
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=Madhulika-21&hide_border=true&background=211329&ring=D99A9B&fire=F8DCCF&currStreakLabel=D99A9B&sideLabels=F8DCCF&dates=966477" />
+<img width="90%" src="https://streak-stats.demolab.com/?user=Madhulika-21&background=211329&border=50345C&stroke=50345C&ring=D99A9B&fire=F8DCCF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F8DCCF&sideLabels=F8DCCF&dates=D99A9B&hide_border=false&disable_animations=false" />
 
 </div>
 
 ---
 
-<!-- ================= CONNECT ================= -->
+<!-- =============== CONNECT =============== -->
 
 ## 🤝 Let's Connect
 
 <div align="center">
 
 <a href="https://github.com/Madhulika-21">
-<img src="https://img.shields.io/badge/GitHub-211329?style=for-the-badge&logo=github&logoColor=F8DCCF"/>
+<img src="https://img.shields.io/badge/GITHUB-211329?style=for-the-badge&logo=github&logoColor=F8DCCF"/>
 </a>
 
 <a href="https://www.linkedin.com/in/madhulikasellathambi/">
-<img src="https://img.shields.io/badge/LinkedIn-50345C?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-50345C?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-### 💜 Thanks for visiting my profile!
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=1400&pause=300&color=D99A9B&center=true&vCenter=true&width=650&height=50&lines=Thanks+for+visiting+my+profile!;Keep+Learning.+Keep+Building.;See+you+in+my+next+project!" />
 
-**Keep Learning. Keep Building. Keep Growing.**
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:211329,25:50345C,50:966477,75:D99A9B,100:F8DCCF" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:211329,50:50345C,100:D99A9B&height=150&section=footer&text=HAPPY%20CODING!&fontSize=28&fontColor=F8DCCF&animation=blinking" />
 
 </div>
